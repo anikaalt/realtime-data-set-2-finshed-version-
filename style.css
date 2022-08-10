@@ -1,0 +1,35 @@
+.h3 
+{
+    font-size: 35px;
+    box-shadow: 10px 10px 30px rgb(105, 56, 46);
+    background-color: rgb(217, 160, 148);
+    color: aliceblue;
+    
+
+}
+.note1
+{
+    font-size: 25px;
+    color: black;
+}
+.footer
+{
+    color: black;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    margin-left: 900px;
+    line-height: 5;
+    font-size: 25px;
+}
+body
+{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/001/637/356/small_2x/doodle-flower-pattern-pink-flowers-on-a-white-background-vector.jpg");
+}
+canvas
+{
+border: 10px dotted rgb(105, 56, 46);
+border-radius: 10px;
+box-shadow: 10px 10px 20px rgb(105, 56, 46);
+
+}
